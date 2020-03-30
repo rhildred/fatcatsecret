@@ -12,7 +12,7 @@ surf to [https://localhost:4000](https://localhost:4000)
 
 ## The Assignment (also in dropbox)
 
-The requirement is to make a design for the fat cat secret app you described in asiignment 2-3. You need to start with [this github repository](https://github.com/rhildred/fatcatsecret). An 85% effort is to include some audience building posts in the way that you did the midterm and to change the static_pane_1.ejs, static_pane_2.ejs and static_pane_3.ejs to include behaviours from your assignment 2-3.
+The requirement is to make a design for the fat cat secret app you described in assignment 2-3. You need to start with [this github repository](https://github.com/rhildred/fatcatsecret). An 85% effort is to include some audience building posts in the way that you did the midterm and to change the static_pane_1.ejs, static_pane_2.ejs and static_pane_3.ejs to include behaviours from your assignment 2-3.
 
 You have a choice for how you get a mark over 85%.
 
