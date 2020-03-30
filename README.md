@@ -20,4 +20,4 @@ You have a choice for how you get a mark over 85%.
 
 2) You can go deep on 1 secondary screen and integrate with a firebase "backend" for 5% for the secondary screen and 10% for getting data in to firebase.
 
-I have provided scaffolding for the 85% portion of your project and a video here. I would like to provide more scaffolding for the secondary screens and firebase as my time allows.
+I have provided scaffolding for the 85% portion of your project and a [video here](https://youtu.be/4VTSgVREwKw). I would like to provide more scaffolding for the secondary screens and firebase as my time allows.
