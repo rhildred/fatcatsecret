@@ -1,0 +1,3 @@
+---
+layout: catsecret/page2
+---
